@@ -4,7 +4,7 @@
 - Where you park your car stays there.
 - The plate is given a special key. With this key, you can lock and unlock the door while outside the vehicle. While in the vehicle, you turn the vehicle's engine on and off.
 - When you connect the GPS system to your vehicle, the location of your vehicle appears as a circle on the map. It does not give the exact coordinate! your vehicle is located within the specified circle.
-- If the person loses the vehicle key, they can get a new key.
+- If the person loses the vehicle key, they can get a new key. 
 
 # Showcase
 https://www.youtube.com/watch?v=Xr1MCPFXKsE
