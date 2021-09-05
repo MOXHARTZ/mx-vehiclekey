@@ -6,6 +6,9 @@
 - When you connect the GPS system to your vehicle, the location of your vehicle appears as a circle on the map. It does not give the exact coordinate! your vehicle is located within the specified circle.
 - If the person loses the vehicle key, they can get a new key.
 
+# Showcase
+https://www.youtube.com/watch?v=Xr1MCPFXKsE
+
 # Commands
 - With the /impound command, players with the job you have specified in the config can tow the vehicle.
 - /hotwire u know : )
